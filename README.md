@@ -1,2 +1,4 @@
 # Git_demo
-My first repo
+My first repository.
+<br>
+Author - ShadowNinja-69
